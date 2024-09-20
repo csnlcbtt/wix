@@ -1,4 +1,5 @@
 "Number","NumCtr","Pct","PctAvg","TabCtr","Tables"
+<<<<<<< Updated upstream
 1,,0.00,0.00,,
 2,,0.00,0.00,,
 3,,0.00,0.00,,
@@ -35,3 +36,41 @@
 34,1,0.00,0.00,1,"DOW.Fri,"
 35,,0.00,0.00,,
 36,2,0.00,0.00,2,"WkCoAs,HorNumHisBefAftInb,"
+=======
+1,1,0.00,0.00,1,"HorNumHisPlLin,"
+2,,0.00,0.00,,
+3,3,0.00,0.00,2,"HProjNumPrvOrdA,HorNumHisPlus,"
+4,3,0.00,0.00,2,"WkCoAs,HorNumHisPlus,"
+5,2,0.00,0.00,2,"WkCoAs,HorNumHisPlLin,"
+6,3,0.00,0.00,3,"HProjNumPrvOrdA,HorNumHisBefAftInb,DOW.Fri,"
+7,2,0.00,0.00,2,"HorNumHisPlus,HorNumHisBefAftInb,"
+8,1,0.00,0.00,1,"HorNumHisPlLin,"
+9,3,0.00,0.00,3,"WkCoAs,HorNumHisPlus,DOW.Fri,"
+10,,0.00,0.00,,
+11,2,0.00,0.00,2,"HProjNumPrvOrdA,DOW.Fri,"
+12,1,0.00,0.00,1,"HProjNumPrvOrdA,"
+13,1,0.00,0.00,1,"WkCoAs,"
+14,6,0.00,0.00,2,"WkCoAs,HorNumHisBefAftInb,"
+15,,0.00,0.00,,
+16,2,0.00,0.00,2,"WkCoAs,HorNumHisPlus,"
+17,3,0.00,0.00,2,"WkCoAs,HorNumHisPlus,"
+18,1,0.00,0.00,1,"DOW.Fri,"
+19,1,0.00,0.00,1,"WkCoAs,"
+20,1,0.00,0.00,1,"HProjNumPrvOrdA,"
+21,,0.00,0.00,,
+22,2,0.00,0.00,2,"WkCoAs,HProjNumPrvOrdA,"
+23,3,0.00,0.00,2,"WkCoAs,HorNumHisBefAftInb,"
+24,1,0.00,0.00,1,"HorNumHisPlus,"
+25,2,0.00,0.00,2,"WkCoAs,HorNumHisBefAftInb,"
+26,1,0.00,0.00,1,"WkCoAs,"
+27,1,0.00,0.00,1,"HorNumHisBefAftInb,"
+28,2,0.00,0.00,2,"WkCoAs,HorNumHisBefAftInb,"
+29,1,0.00,0.00,1,"DOW.Fri,"
+30,,0.00,0.00,,
+31,5,0.00,0.00,3,"WkCoAs,HProjNumPrvOrdA,DOW.Fri,"
+32,1,0.00,0.00,1,"WkCoAs,"
+33,3,0.00,0.00,2,"HProjNumPrvOrdA,HorNumHisPlus,"
+34,1,0.00,0.00,1,"DOW.Fri,"
+35,1,0.00,0.00,1,"HorNumHisPlus,"
+36,8,0.00,0.00,3,"WkCoAs,HorNumHisPlus,HorNumHisBefAftInb,"
+>>>>>>> Stashed changes
